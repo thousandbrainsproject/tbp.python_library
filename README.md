@@ -2,8 +2,7 @@
 
 This is a Python library template. A library provides function and objects for other projects to consume. Libraries are intended to be built and distributed, e.g., by uploading them to PyPI.
 
-For a Python application template, see https://github.com/thousandbrainsproject/tbp.python_application
-For a Python package template, see https://github.com/thousandbrainsproject/tbp.python_package
+For a Python package template, see https://github.com/thousandbrainsproject/tbp.python_package.
 
 To create a repository from this template, find and click the "Use this template" button:
 
